@@ -10,13 +10,13 @@ const Footer = () => {
             <img width={35} src={assets.facebook_icon} alt="" 
             style={{cursor:"pointer"}}
             onClick={()=>{
-              window.location.href="https://github.com/kumar-aryan-s"
+              window.location.href="https://github.com/Ashutoshpani3498"
             }}/>
         
             <img width={35} src={assets.instagram_icon} alt="" 
             style={{cursor:"pointer"}}
             onClick={()=>{
-              window.location.href="https://www.instagram.com/kumar_aryan_s/?next=%2F"
+              window.location.href="https://www.instagram.com/__bru__tal__zzzzzzzzzzzzz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
             }}/>
         </div>
     </div>
