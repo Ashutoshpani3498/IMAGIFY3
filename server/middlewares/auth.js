@@ -1,5 +1,5 @@
 import jwt from 'jsonwebtoken'; 
-
+ 
 // User authentication middleware
 const authUser = async (req, res, next) => {
     // Extract the token from headers
